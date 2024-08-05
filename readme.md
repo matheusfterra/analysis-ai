@@ -1,4 +1,3 @@
-```markdown
 # Análise Detalhada dos Aplicativos net.natura.semprepresente e net.natura.sempre-presente
 
 ## Introdução
@@ -38,4 +37,3 @@ Esta análise foi elaborada com base em dados coletados dos aplicativos net.natu
 A análise dos gráficos e dados sugere um quadro de insatisfação significativa dos usuários, refletido nas elevadas taxas de reclamações e sentimentos negativos. A comparação das médias de ratings entre as lojas indica que a Google é percebida de forma mais favorável pelos usuários. A alta volumetria de reviews na loja Google e a baixa na Apple podem sugerir uma estratégia de marketing que favoreça uma plataforma em detrimento da outra.
 
 As quedas na média diária de ratings e a predominância de reclamações destacam a necessidade de intervenções imediatas para melhorar a experiência do usuário e a satisfação geral. As informações obtidas podem ser fundamentais para direcionar estratégias de melhoria e engajamento nas plataformas de feedback.
-```
